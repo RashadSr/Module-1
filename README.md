@@ -1,8 +1,20 @@
-<<<<<<< HEAD
-#Code Refactor Starter Code
-=======
-#Module-1
+# Module 1 Challenge
 
-##Description
-Refactored code for Horiseon's website. The code has been updated with semantics elements for greater accesibilty. As well added "alt" to all images in the HTML.  Also consolidated some of the Code in CSS to make reduce lines of code from about 200 to 137 as well as changing the margin bottom in class .benefit brand so that it lines up with the rest of the content on the web page. 
->>>>>>> 87db85faecd955425ac7ef8293c0ecdaa2f95eff
+## Description
+
+Refactored code in html using semantic elements for greater accesibility. As well as consolidated code in CSS down to 138 lines of code from 200. also added alt attributs within all image tags and fixed a margin issue so that all content lines up evenly.
+
+## Getting Started
+
+https://github.com/RashadSr/Module-1.gi)
+
+### Screencapture
+
+https://user-images.githubusercontent.com/112975275/191146972-48e35767-c9ca-4c25-a712-70fc68dd61ac.png
+
+## Authors
+
+Code by UCONN Bootcamp
+Rashad Spell
+
+
