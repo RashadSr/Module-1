@@ -5,8 +5,8 @@
 Refactored code in html using semantic elements for greater accesibility. As well as consolidated code in CSS down to 138 lines of code from 200. also added alt attributs within all image tags and fixed a margin issue so that all content lines up evenly.
 
 ## Getting Started
-
-(https://github.com/RashadSr/Module-1.git)
+[
+](https://github.com/RashadSr/Module-1.git)
 
 ### Screencapture
 
