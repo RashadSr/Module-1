@@ -6,7 +6,7 @@ Refactored code in html using semantic elements for greater accesibility. As wel
 
 ## Getting Started
 
-(https://github.com/RashadSr/Module-1.git)
+(https://rashadsr.github.io/Module-1/)
 
 ### Screencapture
 
